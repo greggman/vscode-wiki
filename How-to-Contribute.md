@@ -37,7 +37,7 @@ You'll need the following tools:
     - **Note**: Building and debugging via the Windows subsystem for Linux (WSL) is currently not supported.
 
   - **macOS**
-    - [Xcode](https://developer.apple.com/xcode/downloads/) and the Command Line Tools, which will install `gcc` and the related toolchain containing `make`
+    - [Xcode](https://developer.apple.com/xcode/downloads/) and the Command Line Tools, which will install `clang` and the related toolchain containing `make`
       - Run `xcode-select --install` to install the Command Line Tools
   - **Linux**
     * `make`
